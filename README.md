@@ -1,6 +1,6 @@
 Desenvolvedor Web
 
-Conhecimento: Java Script, React, Ajax,  HTML, CSS, API-Rest
+Conhecimento: Java Script, React.js, HTML, CSS
 
 
 
