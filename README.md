@@ -1,14 +1,4 @@
-## Ola, eu sou
-<p align="center">
-    <img
-             alt="cover"
-        loading="lazy"
-        src="./images/Cover_for_GitHub.gif" 
-        style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
-        title="CAIO SOUSA, FRONTEND DEVELOPER!" 
-
-</p>
-
+## Ola, eu sou Caio Sousa, Front end developer!
 
 <div align="center" style="display: flex">
   <a href="https://github.com/CLSCaio">
