@@ -1,4 +1,15 @@
-## Ola, eu sou Caio Sousa, desenvolvedor Front End!
+## Ola, eu sou
+<p align="center">
+    <img
+             alt="cover"
+        loading="lazy"
+        src="./images/Cover_for_GitHub.gif" 
+        style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
+        title="CAIO SOUSA, FRONTEND DEVELOPER!" 
+
+</p>
+
+
 <div align="center" style="display: flex">
   <a href="https://github.com/CLSCaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clscaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
