@@ -1,7 +1,7 @@
 ## Ola, eu sou Caio Sousa, Front end developer!
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/CLSCaio">
+  <a href="https://github.com/CLSCaio"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clscaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clscaio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -13,7 +13,6 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
    <img align="center" alt="Caio-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" alt="Caio-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
   
   ##
