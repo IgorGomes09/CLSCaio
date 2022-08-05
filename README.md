@@ -31,7 +31,7 @@
   </a>
   
     <a href = "https://clscaio.github.io/" target="_blank">
-    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/369/589/png-transparent-template-curriculum-vitae-responsive-web-design-resume-career-portfolio-mockup-computer-template-service-resume.png" target="_blank">
   </a>
   
 </div>
