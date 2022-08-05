@@ -14,7 +14,6 @@
   <img align="center" alt="Caio-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
    <img align="center" alt="Caio-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </div>
-  ##
  
 <div align="center" style="display: inline_block">
    
@@ -31,7 +30,7 @@
   </a>
   
     <a href = "https://clscaio.github.io/" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/369/589/png-transparent-template-curriculum-vitae-responsive-web-design-resume-career-portfolio-mockup-computer-template-service-resume.png" target="_blank">
+    <span> Portfólio </span>
   </a>
   
 </div>
